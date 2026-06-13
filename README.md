@@ -1,16 +1,14 @@
-# astro
+# ☕ Coffee Shop Loyalty & Rewards Application
 
-A new Flutter project.
+A premium mobile ecosystem designed to enhance customer retention and streamline digital ordering for coffee houses. This application provides users with an interactive, multi-tier loyalty experience while giving businesses a direct digital touchpoint with their customers.
 
-## Getting Started
+## ✨ Core Features
+* **Tiered Loyalty System:** Dynamic progress tracking across custom loyalty tiers (e.g., Bronze, Silver, Gold) based on customer lifetime visits or points.
+* **Interactive Digital Rewards:** Real-time point accrual, reward redemption sliders, and stamp cards for free beverages.
+* **Modern UI/UX:** Sleek, high-end visual design with fluid animations designed to simulate a modern café retail experience.
+* **Web & Retail Integration:** Ready for seamless syncing with a digital retail web shop for coffee beans, merch, and advanced orders.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack & Concepts
+* **Framework:** Flutter & Dart
+* **Design Tools:** Figma & Canva (Custom high-fidelity UI design assets)
+* **Architecture:** Modular, scannable component system for custom UI widgets (like mega menus and reward progress bars).
